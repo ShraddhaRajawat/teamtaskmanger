@@ -3,7 +3,7 @@
 
 A modern, full-stack web application for collaborative project and task management with role-based access control. Built with React, Express.js, and MongoDB.
 
-Live Demo: https://team-task-manager-nine-ruddy.vercel.app/
+Live Demo: https://teamtaskmanger-production-c36f.up.railway.app/login
 
 ## 🎯 Overview
 
@@ -255,6 +255,4 @@ team-task-manager/
 - **Protected Routes**: API endpoints validate authentication and authorization
 - **CORS Configuration**: Cross-origin requests controlled and restricted
 =======
-# teamtaskmanger
-it can mange the task between admin and member
->>>>>>> c5b8832612d97dc94db1fb9aa188638554eaf89b
+
