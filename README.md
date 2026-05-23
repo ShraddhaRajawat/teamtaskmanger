@@ -62,7 +62,7 @@ Before you begin, ensure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Pushkar2103/TeamTaskManager.git
+git clone https://github.com/ShraddhaRajawat/TeamTaskManager.git
 cd team-task-manager
 ```
 
